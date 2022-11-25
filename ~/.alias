@@ -1,0 +1,6 @@
+# git
+alias gs="git status -sb"
+alias gp="git push --progress"
+
+# tmux
+alias tmux="TERM=screen-256color-bce tmux"
